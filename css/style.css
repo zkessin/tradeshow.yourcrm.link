@@ -75,7 +75,7 @@ Tags: responsive, html5 template, one page, landing, startup, business, company,
 }
 
 #intro { 
-	background-image: url(../img/parallax_bg/intro_bkg.jpg); 
+	background-image: url(../img/parallax_bg/tradeshow.jpg); 
 }
 
 .parallax {
@@ -86,11 +86,11 @@ Tags: responsive, html5 template, one page, landing, startup, business, company,
 }
 
 #features { 
-	background-image: url(../img/parallax_bg/features_bkg.jpg);  
+	background-image: url(../img/parallax_bg/tradeshow.jpg);  
 }
 
 #call-to-action { 
-	background-image: url(../img/parallax_bg/call_to_action_bkg.jpg); 
+	background-image: url(../img/parallax_bg/tradeshow.jpg); 
 }
 
 /*------------------------------------------*/
@@ -153,7 +153,7 @@ ul {
 }
 
 .titlebar p {
-	color: #666;
+
 	font-size: 18px;
 	font-family: 'Lato', sans-serif;
 	font-weight: 300;
@@ -922,6 +922,10 @@ nav a#pull {
 } 
 
 
+div.container{
+    background: rgba(120, 120, 120, 0.45);
+    color: white;
+}
 
 /* ==========================================================================
    11. CONTACT FORM RESPONSE PAGE   
