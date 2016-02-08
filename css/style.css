@@ -921,8 +921,11 @@ nav a#pull {
     display: none;  
 } 
 
+#intro_description{
+   background: rgba(120, 120, 120, 0.45);
 
-div.container{
+}
+div.transparent{
     background: rgba(120, 120, 120, 0.45);
     color: white;
 }
