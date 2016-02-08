@@ -281,7 +281,7 @@ ul {
 
 .form_register {
 	width: 100%;
-	background: rgba(120, 120, 120, 0.45);
+	background: rgba(120, 120, 120, 0.7);
 	margin: 0 auto;
     padding: 20px 20px 25px;
 	-webkit-border-radius: 5px;
@@ -922,11 +922,11 @@ nav a#pull {
 } 
 
 #intro_description{
-   background: rgba(120, 120, 120, 0.45);
+   background: rgba(120, 120, 120, 0.7);
 
 }
 div.transparent{
-    background: rgba(120, 120, 120, 0.45);
+    background: rgba(120, 120, 120, 0.7);
     color: white;
 }
 
